@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects:  HTML5, CSS, ReactJS, Machine Learing, Python, Sleeping
-percentage: 90, 90, 80, 70, 90, 50
+aspects:  JavaScript, ReactJS, NodeJS, ASP.NET, Python
+percentage: 90, 80, 80, 80, 80, 70

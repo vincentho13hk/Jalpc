@@ -5,7 +5,7 @@
   i18n: 
   gh_user: vincentho13hk
   repo: hk_marathon_2021
-  img: 
+  img: /static/assets/img/landing/logo-plotly.svg
   desc: |
     A simple data analytic website built with Python Dash and Plotly using data from Standard Chartered Hong Kong Marathon 2021
     Link: https://hkmarathon2021.herokuapp.com/
@@ -14,7 +14,7 @@
   i18n: 
   gh_user: vincentho13hk
   repo: dictsunify
-  img: 
+  img: /static/assets/img/landing/dictsunify.png
   desc: |
     This is a simple web application, which try to unify the searching result of dictionary sites with different perspectives (definition, translation, usage, examples), to facilitate the learning process of a new vocabulary.
     Library used:

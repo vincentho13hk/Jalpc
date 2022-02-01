@@ -5,8 +5,8 @@
     i18n: ngis_china_ltd
   desc:
     detail: |
-      • Participate in developing a GIS web application for environmental department to replace their old excels style management for buildings’ recyclables scheme
-      • Facilitate team’s report development process with Microsoft Reporting Services
+      • Participate in developing a GIS web application for environmental department to replace their old excels style management for buildings’ recyclables scheme\n
+      • Facilitate team's report development process with Microsoft Reporting Services\n
       • Design and implement a surveillance management solution for environment department for their surveillance cameras
     i18n: 
   date:
@@ -22,7 +22,7 @@
     i18n: bupa_asia_ltd
   desc:
     detail: |
-      • Participate in core WinForms system migration, study, analyze, provide documentations and migrate existing surrounding systems
+      • Participate in core WinForms system migration, study, analyze, provide documentations and migrate existing surrounding systems\n
       • Review, monitor, setup and perform daily schedule tasks, batch process; perform ad Hoc tasks, in demand SIT/UAT testing, scripting
     i18n: 
   date:
