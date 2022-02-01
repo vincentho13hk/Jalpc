@@ -1,22 +1,23 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+- name: HK Marathon 2021
+  i18n: 
+  gh_user: vincentho13hk
+  repo: hk_marathon_2021
+  img: 
+  desc: |
+  A simple data analytic website built with Python Dash and Plotly using data from Standard Chartered Hong Kong Marathon 2021
+  Link: https://hkmarathon2021.herokuapp.com/
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Dictionary Unify
+  i18n: 
+  gh_user: vincentho13hk
+  repo: dictsunify
+  img: 
+  desc: |
+  This is a simple web application, which try to unify the searching result of dictionary sites with different perspectives (definition, translation, usage, examples), to facilitate the learning process of a new vocabulary.
+  Library used:
+  puppeteer: to capture screenshot of search result of different dictionary websites
+  react-dnd: make window to be draggable for custom display
+  Frontend of the project: https://github.com/soldier13hk/dictsunify_frontend

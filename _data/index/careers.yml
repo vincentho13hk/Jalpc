@@ -1,30 +1,48 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: NGIS China Ltd.
+    i18n: ngis_china_ltd
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: |
+    • Participate in developing a GIS web application for environmental department to replace their old excels style management for buildings’ recyclables scheme
+• Facilitate team’s report development process with Microsoft Reporting Services
+• Design and implement a surveillance management solution for environment department for their surveillance cameras
+    i18n: 
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: May. 2021 - Sep. 2021
+    i18n: 
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Software Developer
+    i18n: 
   icon: fa-plus-square
-  present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: BUPA Asia Ltd.
+    i18n: bupa_asia_ltd
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: |
+    • Participate in core WinForms system migration, study, analyze, provide documentations and migrate existing surrounding systems
+• Review, monitor, setup and perform daily schedule tasks, batch process; perform ad Hoc tasks, in demand SIT/UAT testing, scripting
+    i18n: 
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: May. 2020 - April. 2021
+    i18n: 
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Application Analyst
+    i18n: 
+  icon: fa-plus-square
+
+- name:
+    detail: Computer And Technologies Group
+    i18n: 
+  desc:
+    detail: Work under the team which provides Human Resource solutions, involved in analyzing existing system, design and implement new features, testing, deployment and support
+    i18n: 
+  date:
+    detail: Jul. 2018 - April. 2020
+    i18n: 
+  job:
+    detail: Programmer
+    i18n: 
   icon: fa-plus-square
