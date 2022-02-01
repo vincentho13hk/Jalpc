@@ -7,8 +7,8 @@
   repo: hk_marathon_2021
   img: 
   desc: |
-  A simple data analytic website built with Python Dash and Plotly using data from Standard Chartered Hong Kong Marathon 2021
-  Link: https://hkmarathon2021.herokuapp.com/
+    A simple data analytic website built with Python Dash and Plotly using data from Standard Chartered Hong Kong Marathon 2021
+    Link: https://hkmarathon2021.herokuapp.com/
 
 - name: Dictionary Unify
   i18n: 
@@ -16,8 +16,8 @@
   repo: dictsunify
   img: 
   desc: |
-  This is a simple web application, which try to unify the searching result of dictionary sites with different perspectives (definition, translation, usage, examples), to facilitate the learning process of a new vocabulary.
-  Library used:
-  puppeteer: to capture screenshot of search result of different dictionary websites
-  react-dnd: make window to be draggable for custom display
-  Frontend of the project: https://github.com/soldier13hk/dictsunify_frontend
+    This is a simple web application, which try to unify the searching result of dictionary sites with different perspectives (definition, translation, usage, examples), to facilitate the learning process of a new vocabulary.
+    Library used:
+    puppeteer: to capture screenshot of search result of different dictionary websites
+    react-dnd: make window to be draggable for custom display
+    Frontend of the project: https://github.com/soldier13hk/dictsunify_frontend
